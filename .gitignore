@@ -7,3 +7,4 @@
 **/*.rs.bak
 *.pdb
 rustc-ice-*.txt
+.direnv/
