@@ -1,0 +1,9 @@
+/result
+/result-*
+.direnv/
+**/.nixos-test-history
+
+/target/
+**/*.rs.bak
+*.pdb
+rustc-ice-*.txt
